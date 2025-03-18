@@ -1,16 +1,2 @@
-# add_remove_product
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/4a364bde-a88b-48af-b05b-18a2a8033946)
+![image](https://github.com/user-attachments/assets/5e732fc3-6364-45e6-bf0a-9f1784961fb6)
